@@ -30,5 +30,5 @@ Setting `CONFIG_PATH` is required for production.
 - `CONFIG_PATH` A path to custom config folder
 
 ### Contribution
-To contribution please follow the '[How To Contribute](https://docs.openemp.org/en/latest/contribute/)' page in the documentation.
+To contribution please follow the '[How To Contribute](https://docs.openemp.org)' page in the documentation.
 
